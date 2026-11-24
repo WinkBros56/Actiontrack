@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.egg-info/
+actiontrack.db
+actiontrack.config.json

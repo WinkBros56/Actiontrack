@@ -1,0 +1,13 @@
+{
+  "people": [
+    {"name": "Priya Nair",   "email": "", "aliases": ["Priya N."]},
+    {"name": "Priya Shah",   "email": "", "aliases": ["Priya S."]},
+    {"name": "Rahul Mehta",  "email": "", "aliases": ["Rahul M."]},
+    {"name": "Rahul Verma",  "email": "", "aliases": ["Rahul V."]},
+    {"name": "Anita Desai",  "email": "", "aliases": []},
+    {"name": "Sam Okafor",   "email": "", "aliases": []},
+    {"name": "Meera Iyer",   "email": "", "aliases": []},
+    {"name": "Karan Joshi",  "email": "", "aliases": []},
+    {"name": "Lena Fischer", "email": "", "aliases": []}
+  ]
+}

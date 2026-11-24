@@ -1,0 +1,14 @@
+{
+  "gmail": {
+    "command": "path/to/your-gmail-mcp-server",
+    "args": [],
+    "env": {},
+    "tool": "create_draft",
+    "arguments": {
+      "to": "to",
+      "subject": "subject",
+      "body": "body",
+      "includeSignature": "includeSignature"
+    }
+  }
+}
